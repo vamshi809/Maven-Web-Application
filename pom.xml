@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>vamshi mvv release</name>
-	      <url>http://13.204.75.210:8081/repository/vamshi-mvv-release//</url>
+	      <url>http://13.204.75.210:8081/repository/vamshi-mvv-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vamshi mvv snapshot </name>
-	      <url>http://13.204.75.210:8081/repository/vamshi-mvv-snapshot//</url>
+	      <url>http://13.204.75.210:8081/repository/vamshi-mvv-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
