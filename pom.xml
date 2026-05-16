@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>new mvv release</name>
-	      <url>http://65.2.121.67:8081/repository/new-mvv-web-release/</url>
+	      <url>http://65.2.121.67:8081/repository/new-mvv-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
