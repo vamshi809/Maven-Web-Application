@@ -23,8 +23,8 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://13.206.247.140:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>V@mshi8096936687</sonar.password> 
-		<sonar.login>squ_498da5c280665612564e1c058e58c0b52ca39f3a</sonar.login>
+		<sonar.password>passw0rd</sonar.password> 
+		
 		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -46,14 +46,13 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-<!--
+
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
--->
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
