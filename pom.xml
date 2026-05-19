@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.206.247.140:9000/</sonar.host.url>
+		<sonar.host.url>http://3.110.187.212:9000/</sonar.host.url>
 		<sonar.login>squ_498da5c280665612564e1c058e58c0b52ca39f3a</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>new mvv release</name>
-	      <url>http://3.110.119.55:8081/repository/new-mvv-release/</url>
+	      <url>http://52.66.241.133:8081/repository/new-mvv-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>new mvv snapshot </name>
-	      <url>http://3.110.119.55:8081/repository/new-mvv-snapshot/</url>
+	      <url>http://52.66.241.133:8081/repository/new-mvv-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
