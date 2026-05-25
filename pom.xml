@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>new mvv release</name>
-	      <url>http://52.66.241.133:8081/repository/new-mvv-release/</url>
+	      <name>mvv release</name>
+	      <url>http://13.204.88.230:8081/repository/mvv-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>new mvv snapshot </name>
-	      <url>http://52.66.241.133:8081/repository/new-mvv-snapshot/</url>
+	      <name>mvv snapshot </name>
+	      <url>http://13.204.88.230:8081/repository/mvv-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
