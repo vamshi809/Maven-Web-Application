@@ -24,6 +24,7 @@
 		<sonar.host.url>http://http://13.127.174.243:9000/</sonar.host.url>
 		<sonar.token>sqa_64062cf603b0b14775bafac01f41fd25ff6281b1</sonar.token>
 		<sonar.login>admin</sonar.login>
+		<sonar.password>Satwik@12345</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
